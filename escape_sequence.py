@@ -1,0 +1,7 @@
+print("This is line A\nThis is line B")
+print("This is backslash \\")
+print("This is double backslash \\\\")
+print("These are single quotes \'\'")
+print("These are double quotes \"\"")
+print("Hello\tWorld")
+print("Errr\bor")
