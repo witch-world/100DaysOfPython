@@ -1,0 +1,7 @@
+print("This escape sequence is used to print new line \\n")
+print("This escape sequence is used to print tab space \\b")
+print("This escape sequence is used to print a single quote \\\'")
+print("This escape sequence is used to print double quote \\\"")
+print("This escape sequence is used to print backslash \\")
+print("This escape sequence is used to print double backslash \\\\")
+print("This escape sequence is used to print 4 backslash \\\\\\\\")
